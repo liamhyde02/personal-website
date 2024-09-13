@@ -21,7 +21,7 @@ export default function Component() {
               <h1 className="text-3xl font-bold mb-2">Liam Hyde</h1>
               <p className="text-xl text-gray-600 mb-4">Computer Science Graduate</p>
               <p className="text-gray-600 mb-4">
-                Recent graduate from Cal Poly with a Bachelor's degree in Computer Science. 
+                Recent graduate from Cal Poly with a Bachelor&apos;s degree in Computer Science. 
                 Passionate about software development and eager to apply my skills in a professional setting.
               </p>
               <div className="flex justify-center md:justify-start gap-4">
